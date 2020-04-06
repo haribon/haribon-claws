@@ -1,0 +1,15 @@
+{
+  "name": "haribon/haribon-claws",
+  "description": "A Haribon framework initial application.",
+  "require": {
+    "psr/http-message": "^1.0"
+  },
+  "license": "Apache License",
+  "authors": [
+    {
+      "name": "julianjupiter",
+      "email": "julianjupiter.io@gmail.com",
+      "homepage": "https://julianjupiter.com/"
+    }
+  ]
+}
