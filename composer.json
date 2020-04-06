@@ -1,5 +1,5 @@
 {
-  "name": "haribon/haribon-claws",
+  "name": "haribon/haribon-skeleton",
   "description": "A Haribon framework initial application.",
   "require": {
     "php": ">=7.4"

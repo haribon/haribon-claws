@@ -1,2 +1,3 @@
-# haribon-claws
+# haribon-skeleton
+
 Haribon Framework Skeleton Application.
